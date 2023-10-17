@@ -10,3 +10,10 @@ I used a number of useful methods to get the final list of customers who agreed 
 - I removed duplicates and unusful columns,
 - I standardized the notation of individual columns,
 - I removed clients from the database who do not wish to be contacted.
+
+
+
+
+
+
+
